@@ -1,0 +1,14 @@
+.home-redirect {
+    text-decoration: none;
+}
+
+.home-redirect p {
+    color: red;
+    border: 2px solid red;
+    padding: 10px;
+}
+
+.home-redirect :hover {
+    color: white;
+    background-color: red;
+}

@@ -36,13 +36,6 @@ class ListLayout extends Component {
         });
     }
 
-    // loadPost = post => {
-    //     this.setState({
-    //         showDetails: true,
-    //         postData: post
-    //     });
-    // };
-
     render() {
         const { posts } = this.state;
         return (
